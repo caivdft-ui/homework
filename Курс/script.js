@@ -1,0 +1,1 @@
+alert('Enter OK if you like this site')
