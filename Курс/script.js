@@ -1,1 +1,1 @@
-alert('Enter OK if you like this site')
+alert('Click OK if you like this website')
