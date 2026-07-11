@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td,
+caption  {
+    border: 1px solid #000;
+}
+
+caption {
+    border-bottom: none;
+    font-weight: 700;
+}
+
+.weekends {
+    color: red;
+}
